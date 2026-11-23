@@ -4,7 +4,7 @@
 | :--- | :--- |
 | 產品線名稱 | 永恆記憶 EternalMemory（預售產品代碼 `C2-WC-DMR`）；來源文件的功能用語不另作對外產品命名 |
 | 產品線編號 | [待確認] 10 條產品線中的編號尚未提供。PMO ID：`C3-WC-DMR-F`（`wonderland-digital-memory-app`）；預售倉 `C2-WC-DMR`（t12u 確認）（`wonderland-digital-memory-presale`） |
-| 所屬法人 | 品牌 水月道場 / Wonderland Center（網域 `wonderland.center`；PMO `C1-WC-CORP`）；法人名稱 **水月道場有限合夥（WonderLand Center） [暫定]**，登記狀態、正式登記名稱與設立沿革 [待確認]；營利／非營利性質 [待確認] |
+| 所屬法人 | 品牌 水月道場 / Wonderland Center（網域 `wonderland.ngo`；PMO `C1-WC-CORP`）；法人名稱 **水月道場有限合夥（WonderLand Center） [暫定]**，登記狀態、正式登記名稱與設立沿革 [待確認]；營利／非營利性質 [待確認] |
 | 產出日期 | 2026-11-12（Asia/Taipei） |
 | 版本 | 草稿 v0.4 |
 | 任務目標 | 依 t12u 及使用者本次補充修訂相關事實、品牌文字與預售草稿；不延伸未確認之功能或法律主張 |
@@ -14,7 +14,7 @@ v0.4（2026-11-12，Asia/Taipei）：依 t14u 新增「代收預售款授權及�
 
 v0.3（2026-11-11，Asia/Taipei）：依 t12u 更新暫定法人名稱、三條產品命名、2027-02-15 交付期、標準個資政策方向及跨法人託管資料；保留登記／法務／託管安排待確認及草稿標註；品牌與網域確認不視為核准。
 
-v0.2（2026-11-10）：依主 PMO 確認統一品牌名稱與官方網域為 斜槓一二三 / Slash123（slash1to3.com）、斜槓104 / Slash104（slash1ofours.com）、水月道場 / Wonderland Center（wonderland.center）；僅移除官方網域選擇的待確認標註，其餘待確認與內容維持草稿
+v0.2（2026-11-10）：依主 PMO 確認統一品牌名稱與官方網域為 斜槓一二三 / Slash123（slash1to3.com）、斜槓104 / Slash104（slash1ofours.com）、水月道場 / Wonderland Center（wonderland.ngo）；僅移除官方網域選擇的待確認標註，其餘待確認與內容維持草稿
 
 ---
 
@@ -23,7 +23,7 @@ v0.2（2026-11-10）：依主 PMO 確認統一品牌名稱與官方網域為 斜
 來源文件用語對照：數位回聲／Digital Echo／Wonderland Digital Memory、選擇預演／ChoiceRehearsal、雲遊伴行／WanderCompanion 僅保留作來源功能描述；對外產品名稱依 t12u 為永恆記憶 EternalMemory、善終守護 AdvanceCare、寰宇無界 SeniorTravel。既有技術識別字與原始水印字串不因產品命名而自行變更；實際 README.md 僅於存在過時品牌文字時依使用者補充修字，不以本草稿建議版全文覆寫。
 
 - **產品線名稱／代號**：永恆記憶 EternalMemory；功能倉 `wonderland-digital-memory-app`（`C3-WC-DMR-F`）；GitHub 組織 `wonderland-center`；預售產品代碼 `C2-WC-DMR`（t12u 確認）
-- **所屬法人**：品牌 水月道場 / Wonderland Center（網域 `wonderland.center`；PMO `C1-WC-CORP`）；法人名稱 **水月道場有限合夥（WonderLand Center） [暫定]**，登記狀態、正式登記名稱與設立沿革 [待確認]；營利／非營利性質 [待確認]。既有 README 的公益定位僅供參考，不構成法人已完成登記的證據。
+- **所屬法人**：品牌 水月道場 / Wonderland Center（網域 `wonderland.ngo`；PMO `C1-WC-CORP`）；法人名稱 **水月道場有限合夥（WonderLand Center） [暫定]**，登記狀態、正式登記名稱與設立沿革 [待確認]；營利／非營利性質 [待確認]。既有 README 的公益定位僅供參考，不構成法人已完成登記的證據。
 - **跨事業體出現之處**：本 README 未提及 AllView 或 AEGIS。
 - **既有文件**：Digital Echo README（願景與定位、功能邊界與 HITL 分工、技術架構、倫理與法律紅線、PoC 范疇先生、目錄、角色信箱、7 道 QA 閘門、Quickstart、免責）
 - **對應預售倉**：`wonderland-digital-memory-presale`（`C2-WC-DMR`）：預售說明、家屬倡議登記、SOW 合約、家屬／企業法遵授權簽約、服務額度預售
@@ -211,7 +211,7 @@ A：預售交付期為 2027-02-15（Asia/Taipei 日期，t12u 提供）；方案
 # 永恆記憶 EternalMemory
 
 > **PMO ID**：`C3-WC-DMR-F`（`wonderland-digital-memory-app`）｜預售倉 `C2-WC-DMR`（`wonderland-digital-memory-presale`）  
-> **所屬法人／事業體**：品牌 水月道場 / Wonderland Center（網域 `wonderland.center`；PMO `C1-WC-CORP`）；法人名稱 **水月道場有限合夥（WonderLand Center） [暫定]**，登記狀態、正式登記名稱與設立沿革 [待確認]；營利／非營利性質 [待確認]
+> **所屬法人／事業體**：品牌 水月道場 / Wonderland Center（網域 `wonderland.ngo`；PMO `C1-WC-CORP`）；法人名稱 **水月道場有限合夥（WonderLand Center） [暫定]**，登記狀態、正式登記名稱與設立沿革 [待確認]；營利／非營利性質 [待確認]
 > **文件狀態**：草稿，待人工審核
 
 > 「水月道場，以幻修真；思念有聲，回音如故。」
@@ -291,11 +291,11 @@ Phase 1 以已故戰略政治評論家范疇先生（1955–2023）作為技術�
 
 ## 角色信箱
 
-- Dev Lead：`dev-wonderland-digital-memory-app@wonderland.center`
-- Collaborator：`collab-wonderland-digital-memory-app@wonderland.center`
-- QA Lead：`qa-wonderland-digital-memory-app@wonderland.center`
-- Repo Admin：`admin-wonderland-digital-memory-app@wonderland.center`
-- 資安／倫理緊急處置（侵權舉報、爭議言論通報、緊急下架）：`github-security@wonderland.center`（[待確認] 是否為正式對外窗口）
+- Dev Lead：`dev-wonderland-digital-memory-app@wonderland.ngo`
+- Collaborator：`collab-wonderland-digital-memory-app@wonderland.ngo`
+- QA Lead：`qa-wonderland-digital-memory-app@wonderland.ngo`
+- Repo Admin：`admin-wonderland-digital-memory-app@wonderland.ngo`
+- 資安／倫理緊急處置（侵權舉報、爭議言論通報、緊急下架）：`github-security@wonderland.ngo`（[待確認] 是否為正式對外窗口）
 
 ## 免責聲明
 
@@ -321,5 +321,5 @@ Phase 1 以已故戰略政治評論家范疇先生（1955–2023）作為技術�
 2. **政治內容風險**：Step 3 政論主持 Agent 與「政論節目直播流」場景，需法務與倫理評估（名譽、選舉相關規範等）後再決定是否列入對外說明。
 3. **商業模式與法人性質**：非營利公益倡議 vs. 預售倉「服務額度預售」「企業傳承／內訓直播」；法人名稱 水月道場有限合夥（WonderLand Center） [暫定]；登記狀態、設立沿革與營利性質 [待確認]。
 4. **家屬方案可行性**：「思念親人」情境多依賴私密語料，紅線要求書面授權；同意範圍、撤回與刪除流程待補。
-5. **數字與合規**：延遲 200／300／900／1000 ms 不一致且皆非 SLA；任何法規合規宣稱在法律意見確認前都不使用；`github-security@wonderland.center` 作為倫理通報窗口是否正式。
+5. **數字與合規**：延遲 200／300／900／1000 ms 不一致且皆非 SLA；任何法規合規宣稱在法律意見確認前都不使用；`github-security@wonderland.ngo` 作為倫理通報窗口是否正式。
 6. **本文件狀態**：草稿 v0.4，**尚未最終確認**。
